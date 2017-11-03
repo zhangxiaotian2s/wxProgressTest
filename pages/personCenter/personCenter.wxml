@@ -1,0 +1,7 @@
+<!--pages/personCenter/personCenter.wxml-->
+<import src="../../common/template/imgCut/imgCut-template.wxml" />
+<view class='wrap'>
+  
+ 
+</view>
+<template animation="animationData" is="imgCut" wx:if="{{needChange}}"></template>
